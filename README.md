@@ -1,5 +1,7 @@
 DOCTYPE <html></html>
+
 <html long pt br"></html>
+
 <head></head>
 <title></title> title Minha pagina/ title
 <meta charset ult ''8> primeiro JS
